@@ -1,4 +1,4 @@
-Graphs
+Graphs 2
 ======
 
 Implementation of four traversal based, single-source graph algorithms (BFS, DFS, Dijkstra's, Prim's) including testable files. 
